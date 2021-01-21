@@ -1,0 +1,7 @@
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase03\03EjercicioMenu\bin\Debug\03EjercicioMenu.exe.config
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase03\03EjercicioMenu\bin\Debug\03EjercicioMenu.exe
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase03\03EjercicioMenu\bin\Debug\03EjercicioMenu.pdb
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase03\03EjercicioMenu\obj\Debug\03EjercicioMenu.csprojAssemblyReference.cache
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase03\03EjercicioMenu\obj\Debug\03EjercicioMenu.csproj.CoreCompileInputs.cache
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase03\03EjercicioMenu\obj\Debug\03EjercicioMenu.exe
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase03\03EjercicioMenu\obj\Debug\03EjercicioMenu.pdb

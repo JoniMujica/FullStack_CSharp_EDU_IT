@@ -1,0 +1,7 @@
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase02\04BreakContinue\bin\Debug\04BreakContinue.exe.config
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase02\04BreakContinue\bin\Debug\04BreakContinue.exe
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase02\04BreakContinue\bin\Debug\04BreakContinue.pdb
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase02\04BreakContinue\obj\Debug\04BreakContinue.csprojAssemblyReference.cache
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase02\04BreakContinue\obj\Debug\04BreakContinue.csproj.CoreCompileInputs.cache
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase02\04BreakContinue\obj\Debug\04BreakContinue.exe
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase02\04BreakContinue\obj\Debug\04BreakContinue.pdb

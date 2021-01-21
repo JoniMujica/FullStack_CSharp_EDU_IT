@@ -1,0 +1,7 @@
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase02\03VectoresNumeros\bin\Debug\03VectoresNumeros.exe.config
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase02\03VectoresNumeros\bin\Debug\03VectoresNumeros.exe
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase02\03VectoresNumeros\bin\Debug\03VectoresNumeros.pdb
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase02\03VectoresNumeros\obj\Debug\03VectoresNumeros.csprojAssemblyReference.cache
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase02\03VectoresNumeros\obj\Debug\03VectoresNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase02\03VectoresNumeros\obj\Debug\03VectoresNumeros.exe
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase02\03VectoresNumeros\obj\Debug\03VectoresNumeros.pdb

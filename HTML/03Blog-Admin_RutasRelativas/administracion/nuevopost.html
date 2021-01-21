@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap" rel="stylesheet">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="../img/icon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../img/icon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../img/icon/favicon-16x16.png">
+    <link rel="manifest" href="../img/icon/site.webmanifest">
+
+    <link rel="stylesheet" href="../styles/styles.css">
+    <title>Nuevo post</title>
+</head>
+<body>
+    <header>
+        <h1 style="color:#091E63">Blog</h1>
+        <h3>administracion del sitio</h3>
+        <h4>Nuevo Post</h4>
+    </header>
+    <main>
+        <form action="">
+            <label for="">Titulo <br/>
+            <input type="text" name="titulo" placeholder="Ingrese el titulo" maxlength="120" required></label>
+            <br/>
+            <label>Categoria: <br/>
+            <select name="categoria" id="" multiple  required> <!--Con 'multiple' puedo elegir varias opciones   -->
+                <option value="1">Interes General</option>
+                <option value="2">Tecnolog&iacute;a</option>
+                <option value="3">Novedades</option>
+            </select>
+            </label>
+            <br/>
+            <label for="contenido">Contenido</label> <br/>
+            <textarea name="contenido" id="" cols="20" rows="10" required></textarea>
+            <br/>
+            <label for="archivos">Archivos</label> <br/>
+            <input type="file" name="archivos" id="" multiple required> <br/> <!--El multltiple de inputFile me permite subir varios archivos arl servidor-->
+            <label for="autor">Autor</label> <br/> <!--otra forma de vincular un Label-->
+            <input type="text" name="autor" placeholder="Nombre del autor" maxlength="120" required>
+            <br/>
+            <label for="correo">mail del autor</label> <br/>
+            <input type="email" name="correo" id="" required>
+            <br/>
+            <label for="visitas">Visitas</label> <br/>
+            <input type="number" name="visitas" id="" max="35" min="10" step=".1">
+            <br/>
+            <label for="comentarios">¿Permitir comentarios?</label><br/>
+            <input type="radio" name="comentarios" id="" value="true" checked>Si
+            <input type="radio" name="comentarios" id="" value="false">No
+            <br/>
+            <label for="palabrasclave">Palabras clave</label> <br/>
+            <input type="checkbox" name="nube" id="" value="Nube">Nube
+            <input type="checkbox" name="programacion" id="" value="Programacion">Programacion
+            <input type="checkbox" name="hardware" id="" value="Hardware">Hardware<br/>
+            <input type="reset" value="Vaciar"> <br/>
+            <input type="submit" value="Guardar">
+        </form>
+    </main>
+</body>
+</html>

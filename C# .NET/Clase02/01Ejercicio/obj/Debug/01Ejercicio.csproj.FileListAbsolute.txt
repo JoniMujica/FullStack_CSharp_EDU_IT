@@ -1,0 +1,7 @@
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase02\01Ejercicio\bin\Debug\01Ejercicio.exe.config
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase02\01Ejercicio\bin\Debug\01Ejercicio.exe
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase02\01Ejercicio\bin\Debug\01Ejercicio.pdb
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase02\01Ejercicio\obj\Debug\01Ejercicio.csprojAssemblyReference.cache
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase02\01Ejercicio\obj\Debug\01Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase02\01Ejercicio\obj\Debug\01Ejercicio.exe
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase02\01Ejercicio\obj\Debug\01Ejercicio.pdb

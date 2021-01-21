@@ -1,0 +1,7 @@
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase03\02AmbitoVariablesFunciones\bin\Debug\02AmbitoVariablesFunciones.exe.config
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase03\02AmbitoVariablesFunciones\bin\Debug\02AmbitoVariablesFunciones.exe
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase03\02AmbitoVariablesFunciones\bin\Debug\02AmbitoVariablesFunciones.pdb
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase03\02AmbitoVariablesFunciones\obj\Debug\02AmbitoVariablesFunciones.csproj.CoreCompileInputs.cache
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase03\02AmbitoVariablesFunciones\obj\Debug\02AmbitoVariablesFunciones.exe
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase03\02AmbitoVariablesFunciones\obj\Debug\02AmbitoVariablesFunciones.pdb
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase03\02AmbitoVariablesFunciones\obj\Debug\02AmbitoVariablesFunciones.csprojAssemblyReference.cache

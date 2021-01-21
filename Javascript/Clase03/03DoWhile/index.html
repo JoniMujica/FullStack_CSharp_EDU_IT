@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var maxAlumnos = 10;
+        var contador = 0;
+        do{
+            contador++;
+            var alumno = prompt("Ingrese el nombre del alumno");
+            document.write(alumno + "</br>");
+            var ingresarOtro = confirm("Desea ingresar otro alumno?");
+        }while(ingresarOtro == true && contador <= maxAlumnos);
+    </script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase02\02ListadoPersonas\bin\Debug\02ListadoPersonas.exe.config
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase02\02ListadoPersonas\bin\Debug\02ListadoPersonas.exe
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase02\02ListadoPersonas\bin\Debug\02ListadoPersonas.pdb
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase02\02ListadoPersonas\obj\Debug\02ListadoPersonas.csprojAssemblyReference.cache
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase02\02ListadoPersonas\obj\Debug\02ListadoPersonas.csproj.CoreCompileInputs.cache
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase02\02ListadoPersonas\obj\Debug\02ListadoPersonas.exe
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase02\02ListadoPersonas\obj\Debug\02ListadoPersonas.pdb

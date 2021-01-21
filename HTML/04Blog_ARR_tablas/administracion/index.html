@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap" rel="stylesheet">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="../img/icon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../img/icon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../img/icon/favicon-16x16.png">
+    <link rel="manifest" href="../img/icon/site.webmanifest">
+
+    <link rel="stylesheet" href="../styles/styles.css">
+    <title>administracion</title>
+</head>
+<body>
+    <header>
+        <h1 style="color:#091E63">Blog</h1>
+        <h3>administracion del sitio</h3>
+    </header>
+    <nav>
+        <ul>
+            <li>
+                <a href="../index.html">Volver</a>
+            </li>
+            <li>
+                <a href="./nuevopost.html">Nuevo post</a>
+            </li>
+            <li>
+                <a href="./posts.html">Lista de Post</a>
+            </li>
+        </ul>
+    </nav>
+    <main>
+        <!--
+            Atributos:
+            action:
+            es la pagina a donde va a enviar los datos el formulario
+            method:
+            es el verbo HTTP en el que envia los datos
+
+            OJO! esto solo funciona cuando este en un servidor
+        -->
+         <form method="POST ">
+             Usuario <br/>
+             <input type="text" name="usuario" value="" placeholder="Juan" maxlength="30" />
+             <br/>
+             Contraseña <br/>
+             <input type="password" name="pass" value="" placeholder="Contrasela" maxlength="20">
+             <br/>
+             <input type="submit" value="Ingresar">
+         </form>
+    </main>
+</html>

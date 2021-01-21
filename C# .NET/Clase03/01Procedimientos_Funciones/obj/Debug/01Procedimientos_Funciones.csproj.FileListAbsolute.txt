@@ -1,0 +1,7 @@
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase03\01Procedimientos_Funciones\bin\Debug\01Procedimientos_Funciones.exe.config
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase03\01Procedimientos_Funciones\bin\Debug\01Procedimientos_Funciones.exe
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase03\01Procedimientos_Funciones\bin\Debug\01Procedimientos_Funciones.pdb
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase03\01Procedimientos_Funciones\obj\Debug\01Procedimientos_Funciones.csprojAssemblyReference.cache
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase03\01Procedimientos_Funciones\obj\Debug\01Procedimientos_Funciones.csproj.CoreCompileInputs.cache
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase03\01Procedimientos_Funciones\obj\Debug\01Procedimientos_Funciones.exe
+C:\Users\Joni\Desktop\educationIT\C# .NET\Clase03\01Procedimientos_Funciones\obj\Debug\01Procedimientos_Funciones.pdb
