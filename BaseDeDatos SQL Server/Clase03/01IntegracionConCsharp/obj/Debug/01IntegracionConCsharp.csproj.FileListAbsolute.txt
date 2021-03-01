@@ -1,0 +1,7 @@
+C:\Users\JonathanMujicaMamani\Documents\FullStack_CSharp_EDU_IT\BaseDeDatos SQL Server\Clase03\01IntegracionConCsharp\bin\Debug\01IntegracionConCsharp.exe.config
+C:\Users\JonathanMujicaMamani\Documents\FullStack_CSharp_EDU_IT\BaseDeDatos SQL Server\Clase03\01IntegracionConCsharp\bin\Debug\01IntegracionConCsharp.exe
+C:\Users\JonathanMujicaMamani\Documents\FullStack_CSharp_EDU_IT\BaseDeDatos SQL Server\Clase03\01IntegracionConCsharp\bin\Debug\01IntegracionConCsharp.pdb
+C:\Users\JonathanMujicaMamani\Documents\FullStack_CSharp_EDU_IT\BaseDeDatos SQL Server\Clase03\01IntegracionConCsharp\obj\Debug\01IntegracionConCsharp.csprojAssemblyReference.cache
+C:\Users\JonathanMujicaMamani\Documents\FullStack_CSharp_EDU_IT\BaseDeDatos SQL Server\Clase03\01IntegracionConCsharp\obj\Debug\01IntegracionConCsharp.csproj.CoreCompileInputs.cache
+C:\Users\JonathanMujicaMamani\Documents\FullStack_CSharp_EDU_IT\BaseDeDatos SQL Server\Clase03\01IntegracionConCsharp\obj\Debug\01IntegracionConCsharp.exe
+C:\Users\JonathanMujicaMamani\Documents\FullStack_CSharp_EDU_IT\BaseDeDatos SQL Server\Clase03\01IntegracionConCsharp\obj\Debug\01IntegracionConCsharp.pdb
