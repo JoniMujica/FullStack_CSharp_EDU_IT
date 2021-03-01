@@ -33,6 +33,14 @@ namespace _01IntegracionConCsharp
             //ABRO LA CONEXION AL PROYECTO
             conexion.Open();
             Console.WriteLine("Estado de la conexion: {0}", conexion.State);
+
+            //CREO UNA CADENA DE CONSULTA SQL (INSERCION DE DATOS)
+            string NuevaPersona = "insert into Personas(Legajo, DNI, Apellido, Nombre, Direccion, FechaDeNacimiento, Activa) values (3, 41969938, 'Mujica Mujica', 'Jose Alejandro', 'Pasaje San Jose 2762', '1973-11-26T13:00:00', 1);";
+            //Creo una variable que ejecuta comando SQL la cual recibe como parametros (StringDeLaConsulta , StringDeLaConexion)
+            SqlCommand comandoInsercion = new SqlCommand(NuevaPersona, conexion); //indico que ejecute la consulta 'NuevaPersona' en la conexion 'conexion'
+            //Ejecuta la consulta a SQLServer
+            comandoInsercion.ExecuteNonQuery();
+            Console.WriteLine("Termino de ejecutar la consulta!");
             conexion.Close();
             Console.ReadKey();
         }
