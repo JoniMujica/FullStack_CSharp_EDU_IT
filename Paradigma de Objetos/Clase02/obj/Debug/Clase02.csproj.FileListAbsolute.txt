@@ -1,0 +1,7 @@
+C:\Users\JonathanMujicaMamani\Documents\FullStack_CSharp_EDU_IT\Paradigma de Objetos\Clase02\bin\Debug\Clase02.exe.config
+C:\Users\JonathanMujicaMamani\Documents\FullStack_CSharp_EDU_IT\Paradigma de Objetos\Clase02\bin\Debug\Clase02.exe
+C:\Users\JonathanMujicaMamani\Documents\FullStack_CSharp_EDU_IT\Paradigma de Objetos\Clase02\bin\Debug\Clase02.pdb
+C:\Users\JonathanMujicaMamani\Documents\FullStack_CSharp_EDU_IT\Paradigma de Objetos\Clase02\obj\Debug\Clase02.csprojAssemblyReference.cache
+C:\Users\JonathanMujicaMamani\Documents\FullStack_CSharp_EDU_IT\Paradigma de Objetos\Clase02\obj\Debug\Clase02.csproj.CoreCompileInputs.cache
+C:\Users\JonathanMujicaMamani\Documents\FullStack_CSharp_EDU_IT\Paradigma de Objetos\Clase02\obj\Debug\Clase02.exe
+C:\Users\JonathanMujicaMamani\Documents\FullStack_CSharp_EDU_IT\Paradigma de Objetos\Clase02\obj\Debug\Clase02.pdb
