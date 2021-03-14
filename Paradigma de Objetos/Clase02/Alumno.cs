@@ -53,5 +53,15 @@ namespace Clase02
             string descripcionEstado = obtenerEstadoAlumno();
             Console.WriteLine(descripcionEstado);
         }
+
+        //Sobre Carga de operaciones
+        public void Saludar()
+        {
+            Console.WriteLine("Hola, soy " + nombre + " " + apellido);
+        }
+        public void Saludar(string saludo)
+        {
+            Console.WriteLine(saludo + ", soy " + nombre + " " + apellido);
+        }
     }
 }
