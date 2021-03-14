@@ -23,6 +23,7 @@ namespace Clase02
             /*documento.tipoDeDocumento = "DU";
             documento.numeroDeDocumento = "213412321";
             alumno.documento = documento;*/
+            Documento docSinParam = new Documento();
             Console.ReadKey();
         }
     }

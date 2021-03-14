@@ -11,6 +11,10 @@ namespace Clase02
         public string tipoDeDocumento; 
         public string numeroDeDocumento; //referido A
         //Constructor
+        public Documento()
+        {
+
+        }
         public Documento(string tipo,string numeroDeDocumento)
         {
             tipoDeDocumento = tipo;
