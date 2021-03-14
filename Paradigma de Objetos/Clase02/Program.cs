@@ -43,7 +43,7 @@ namespace Clase02
                 Alumno alumno = new Alumno();
                 alumno.nombre = nombre;
                 alumno.apellido = apellido;
-                alumno.documento = documento;
+                alumno.documento.numeroDeDocumento = documento;
                 misAlumnos[i] = alumno;
             }
             for (int i = 0; i < misAlumnos.Length; i++)

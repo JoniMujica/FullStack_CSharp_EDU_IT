@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace Clase02
 {
-    class Profesor
+    public class Documento
     {
-        string nombre;
-        string apellido;
-        Documento documento;
+        public string tipoDeDocumento;
+        public string numeroDeDocumento;
     }
 }

@@ -14,7 +14,7 @@ namespace Clase02
      * internal: Se puede ver solo del mismo proyecto
      * private: Solo se puede ver desde la misma clase
      */
-    class Alumno
+    public class Alumno
     {
         /*
          * Visibilidad a nivel miembros (Atributos y Metodos) Hay 3 tipos de visibilidad:
@@ -25,7 +25,8 @@ namespace Clase02
          */
         public string nombre; //cambio la visibilidad de protected a public (visible para todos)
         public string apellido;
-        public string documento; //lo pongo como string por si llegase a ser pasaporte (que tiene letras)
+        public Documento documento;
+        //public string documento; //lo pongo como string por si llegase a ser pasaporte (que tiene letras)
 
         //Cursos
         //Asistencia
@@ -44,7 +45,7 @@ namespace Clase02
             {
                 estado = "Debe algun pago";
             }
-            string resultado = nombre + " " + apellido + " (" + documento + ") " + estado;
+            string resultado = nombre + " " + apellido + " (" + documento.numeroDeDocumento + ") " + estado;
             return resultado;
         }
 
