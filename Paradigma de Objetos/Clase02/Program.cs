@@ -50,6 +50,7 @@ namespace Clase02
             {
                 misAlumnos[i].imprimirEstadoAlumno();
                 misAlumnos[i].Saludar();
+                misAlumnos[i].Saludar("Chau");
             }
             Console.WriteLine(misAlumnos[1].nombre);
             Console.ReadKey();
