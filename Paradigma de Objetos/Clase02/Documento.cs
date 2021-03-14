@@ -8,7 +8,14 @@ namespace Clase02
 {
     public class Documento
     {
-        public string tipoDeDocumento;
-        public string numeroDeDocumento;
+        public string tipoDeDocumento; 
+        public string numeroDeDocumento; //referido A
+        //Constructor
+        public Documento(string tipo,string numeroDeDocumento)
+        {
+            tipoDeDocumento = tipo;
+            //referencia A
+            this.numeroDeDocumento = numeroDeDocumento; //con 'this' me estoy refiriendo a la variable "numeroDeDocumento" del objeto en si en el que estoy trabajando, y sin el this, me refiero al parametro
+        }
     }
 }
