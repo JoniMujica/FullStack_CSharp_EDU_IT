@@ -28,9 +28,21 @@ namespace _03_EjercicioEstacionamiento
             auto.Patente = "CCC123"; //al tener a Auto heredado de Vehiculo, puedo utilizar las propiedades de la clase Vehiculo | con esto evito duplicar codigo
             Console.WriteLine(auto.MetodoEjemeplo()); //TAMBIEN puede acceder alas operaciones que hereda del padre
             Console.WriteLine(auto.Patente);
+
+            Vehiculo miVehiculo = new VehiculoTerrestre(); //el hijo puede actuar como el padre || VehiculoTerrestre y Auto son hijos, ambos se puede utilizar
+            Auto autoExtraido = miVehiculo as Auto; //conesto intento convertir el tipo de dato Vehiculo a Auto ya que auto es hijo 
+
+            if(autoExtraido == null) //con esto verifico que si lo que extrage era un vehiculo deseado o no (en este caso un Auto)
+            {
+                Console.WriteLine("No era un auto");
+            }
+            else
+            {
+                Console.WriteLine("Es un auto");
+            }
             Console.ReadKey();
 
-            Vehiculo miVehiculo = new Auto(); //el hijo puede actuar como el padre
+           
 
         }
     }
