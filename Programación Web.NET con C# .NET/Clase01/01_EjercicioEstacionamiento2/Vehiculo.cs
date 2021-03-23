@@ -22,8 +22,8 @@ namespace _03_EjercicioEstacionamiento
         //get obtiene el valor del estado de "patente"
         //set le asigna un nuevo valor al estado de "patente"
 
-        //Este metodo no lleva parametros
-        public string Patente
+        //Este metodo no lleva parametros  (forma 1° de como estructurar el get y set)
+        /*public string Patente
         {
             get
             {
@@ -33,7 +33,11 @@ namespace _03_EjercicioEstacionamiento
             {
                 patente = value; // value hace referencia al valor que se le asigno desde afuera y este le cambia el estado de "patente" (seria como obtener y setear con el parametros de una operacion)
             }
-        }
+        }*/
+
+
+        //Este metodo no lleva parametros  (forma 2° de como estructurar el get y set) - property auto-incrementada 
+        public string Patente { get; set;}
 
         public Vehiculo() //al string lo puedo tomar como un array de caracteres
         {
