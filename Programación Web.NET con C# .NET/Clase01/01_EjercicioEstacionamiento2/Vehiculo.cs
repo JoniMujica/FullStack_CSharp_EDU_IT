@@ -10,8 +10,10 @@ using System.Threading.Tasks;
 ///
 namespace _03_EjercicioEstacionamiento
 {
-    class Vehiculo
+    abstract class Vehiculo //con abstract no puedo crear una instancia de esta clase
     {
+        /* ///////////////////////PROPERTY FULL IMPLEMENTADA////////////////////////////
+
         // private char[] patente;
         private string patente;
         public Vehiculo(string patente) //al string lo puedo tomar como un array de caracteres
@@ -36,12 +38,19 @@ namespace _03_EjercicioEstacionamiento
         }*/
 
 
-        //Este metodo no lleva parametros  (forma 2° de como estructurar el get y set) - property auto-incrementada 
+        
+        ////////////////////////////////////PROPERTY  AUTO IMPLEMENTADA/////////////////////////////////////////
+        //Este metodo no lleva parametros  (forma 2° de como estructurar el get y set) - property auto-implementada 
         public string Patente { get; set;}
 
+        public string MetodoEjemeplo()
+        {
+            return "Esto es un vehiculo!";
+        }
         public Vehiculo() //al string lo puedo tomar como un array de caracteres
         {
 
         }
+
     }
 }
