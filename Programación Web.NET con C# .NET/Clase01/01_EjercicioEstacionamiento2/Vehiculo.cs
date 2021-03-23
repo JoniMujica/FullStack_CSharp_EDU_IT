@@ -16,14 +16,14 @@ namespace _03_EjercicioEstacionamiento
         private string patente;
         public Vehiculo(string patente) //al string lo puedo tomar como un array de caracteres
         {
-            establecerPatente(patente);
+            setPatente(patente);
         }
 
-        public void establecerPatente(string patente)
+        public void setPatente(string patente)
         {
             this.patente = patente;
         }
-        public string obtenerPatente()
+        public string getPatente()
         {
             return patente;
         }

@@ -30,7 +30,7 @@ namespace _03_EjercicioEstacionamiento
 
             if(estaDisponible() == true)
             {
-                if (vehiculo.obtenerPatente() == patente)
+                if (vehiculo.getPatente() == patente)
                 {
                     res = vehiculo;
                     vehiculo = null;

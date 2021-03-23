@@ -13,8 +13,8 @@ namespace _03_EjercicioEstacionamiento
             //Vehiculo vehiculo = new Vehiculo("aa");
             //CON LA CLASE ENCAPSULADA
             Vehiculo miVehiculo = new Vehiculo();
-            miVehiculo.establecerPatente("AAA123");
-            Console.WriteLine(miVehiculo.obtenerPatente());
+            miVehiculo.setPatente("AAA123");
+            Console.WriteLine(miVehiculo.getPatente());
             Console.ReadKey();
         }
     }
