@@ -16,16 +16,23 @@ namespace _03_EjercicioEstacionamiento
         private string patente;
         public Vehiculo(string patente) //al string lo puedo tomar como un array de caracteres
         {
-            setPatente(patente);
+            Patente = patente;
         }
+        //Utilizo setter y getter , con esto evito tener varias operaciones en una misma clase
+        //get obtiene el valor del estado de "patente"
+        //set le asigna un nuevo valor al estado de "patente"
 
-        public void setPatente(string patente)
+        //Este metodo no lleva parametros
+        public string Patente
         {
-            this.patente = patente;
-        }
-        public string getPatente()
-        {
-            return patente;
+            get
+            {
+                return patente; //el get si o si debe retornar algo
+            }
+            set
+            {
+                patente = value; // value hace referencia al valor que se le asigno desde afuera y este le cambia el estado de "patente" (seria como obtener y setear con el parametros de una operacion)
+            }
         }
 
         public Vehiculo() //al string lo puedo tomar como un array de caracteres
