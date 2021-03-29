@@ -1,0 +1,7 @@
+C:\Users\JonathanMujicaMamani\Documents\FullStack_CSharp_EDU_IT\Programación Web.NET con C# .NET\Clase01\01_EjercicioEstacionamiento2\obj\Debug\03_EjercicioEstacionamiento.csprojAssemblyReference.cache
+C:\Users\JonathanMujicaMamani\Documents\FullStack_CSharp_EDU_IT\Programación Web.NET con C# .NET\Clase01\01_EjercicioEstacionamiento2\obj\Debug\03_EjercicioEstacionamiento.csproj.CoreCompileInputs.cache
+C:\Users\JonathanMujicaMamani\Documents\FullStack_CSharp_EDU_IT\Programación Web.NET con C# .NET\Clase01\01_EjercicioEstacionamiento2\bin\Debug\03_EjercicioEstacionamiento.exe.config
+C:\Users\JonathanMujicaMamani\Documents\FullStack_CSharp_EDU_IT\Programación Web.NET con C# .NET\Clase01\01_EjercicioEstacionamiento2\bin\Debug\03_EjercicioEstacionamiento.exe
+C:\Users\JonathanMujicaMamani\Documents\FullStack_CSharp_EDU_IT\Programación Web.NET con C# .NET\Clase01\01_EjercicioEstacionamiento2\bin\Debug\03_EjercicioEstacionamiento.pdb
+C:\Users\JonathanMujicaMamani\Documents\FullStack_CSharp_EDU_IT\Programación Web.NET con C# .NET\Clase01\01_EjercicioEstacionamiento2\obj\Debug\03_EjercicioEstacionamiento.exe
+C:\Users\JonathanMujicaMamani\Documents\FullStack_CSharp_EDU_IT\Programación Web.NET con C# .NET\Clase01\01_EjercicioEstacionamiento2\obj\Debug\03_EjercicioEstacionamiento.pdb
