@@ -14,11 +14,16 @@ namespace _03_EjercicioEstacionamiento
     {
         public string Patente { get; set;}
 
-        public decimal PrecioDeUso { get; set; }
+        public virtual decimal PrecioDeUso { get; set; } // virtual:  lo que hace virtual es indicar que puede ser sobreEscribir (permite)
 
         public Vehiculo(string patente)
         {
             Patente = patente;
+        }
+
+        public override string ToString()
+        {
+            return "Pantente" + Patente + " Precio de uso " + PrecioDeUso;
         }
 
     }

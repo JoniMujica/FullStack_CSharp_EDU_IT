@@ -10,10 +10,10 @@ namespace _03_EjercicioEstacionamiento
     {
         private decimal totalFacturado = 0;
         private Cochera[] cocheras;
-
+        
         public Estacionamiento(decimal elPrecio, int cantidadDeCocheras)
         {
-            precioDeUso = elPrecio;
+            //PrecioDeUso = elPrecio;
             cocheras = new Cochera[cantidadDeCocheras];
             for (int i = 0; i < cantidadDeCocheras; i++)
             {

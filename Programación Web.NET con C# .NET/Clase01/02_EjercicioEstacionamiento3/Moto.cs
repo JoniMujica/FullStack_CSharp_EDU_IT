@@ -8,5 +8,9 @@ namespace _03_EjercicioEstacionamiento
 {
     class Moto: Vehiculo
     {
+        public Moto(string patente,decimal precioDeUso) :base(patente)
+        {
+
+        }
     }
 }
